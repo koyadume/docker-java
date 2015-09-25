@@ -1,5 +1,5 @@
 # Base Image
-FROM ${baseImage}
+FROM koyadume/linux-tools:1.x
 
 # Maintainer
 MAINTAINER Shailendra Singh <shailendra_01@outlook.com>
