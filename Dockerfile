@@ -1,5 +1,5 @@
 # Base Image
-FROM ${baseImage}
+FROM koyadume/docker-linux-tools
 
 # Maintainer
 MAINTAINER Shailendra Singh <shailendra_01@outlook.com>
