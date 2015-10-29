@@ -1,5 +1,5 @@
 # Base Image
-FROM koyadume/docker-linux-tools
+FROM koyadume/docker-linux-tools:dockerhub-1.0
 
 # Maintainer
 MAINTAINER Shailendra Singh <shailendra_01@outlook.com>
